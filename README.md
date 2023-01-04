@@ -11,10 +11,14 @@ To write a python program to find a solution to a system of linear equations.
 
 ## Algorithm:
 
-### Step 1: Import numpy package
-### Step 2: Get the import matrix
-### Step 3: Find the system of linear equation
-### Step 4: Print the result
+### Step 1: 
+Import numpy package
+### Step 2: 
+Get the import matrix
+### Step 3: 
+Find the system of linear equation
+### Step 4: 
+Print the result
 
 ## Program:
 ```python
